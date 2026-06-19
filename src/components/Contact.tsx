@@ -112,12 +112,7 @@ export function Contact() {
           <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
         </motion.a>
 
-        {/* Footer */}
-        <div className="mt-20 sm:mt-28 pt-8 border-t border-white/[0.06]">
-          <p className="text-gray-600 text-[10px] sm:text-xs">
-            © 2025 Atharv Anil Mane. Designed & built with React, TypeScript & Framer Motion.
-          </p>
-        </div>
+
       </div>
     </section>
   );
